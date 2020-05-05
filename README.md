@@ -1,5 +1,5 @@
 # FeralKid
-basically we are makin a game about a feral kid, nuff said<br>
+basically we are makin a game about a feral kid, nuff said lmao<br>
 um the people working on it are<br>
    Will, Dan (lead coders)<br>
    Zach, Andrew (music)<br>
